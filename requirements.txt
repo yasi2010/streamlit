@@ -3,9 +3,6 @@ cmake
 dlib
 altgraph
 future
-kivy-deps.glew
-kivy-deps.gstreamer
-kivy-deps.sdl2
 numpy
 opencv-python
 pefile
