@@ -2,6 +2,7 @@ numpy
 cmake
 altgraph
 future
-numpy
+streamlit
+opencv-python-headless
 opencv-python
 pefile
