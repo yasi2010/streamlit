@@ -1,6 +1,5 @@
 numpy
 cmake
-dlib
 altgraph
 future
 numpy
