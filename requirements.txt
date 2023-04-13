@@ -1,0 +1,4 @@
+numpy
+cmake
+dlib
+opencv-python
