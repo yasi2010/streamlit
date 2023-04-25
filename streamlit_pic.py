@@ -7,7 +7,7 @@ import face_recognition
 import cv2
 
 # CONSTANTS
-PATH_DATA = 'data/DB.csv'
+PATH_DATA = 'DB.csv'
 COLOR_DARK = (0, 0, 153)
 COLOR_WHITE = (255, 255, 255)
 COLS_INFO = ['name', 'description']
