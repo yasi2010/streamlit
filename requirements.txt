@@ -3,6 +3,9 @@ cmake
 altgraph
 future
 streamlit
+face_recognition
+pandas
+os
 opencv-python-headless
 opencv-python
 pefile
